@@ -4,7 +4,7 @@
 The purpose of this analysis is to create a webpage that presents a table of alien sightings from a data.js file. The dynamic webpage is built using JavaScript, D3 Javascript library, and HTML. The functionality allows users to filter the sightings by date, city, state, country, and shape. 
 
 ## Results 
-The website is user-friendly and intuitive to use. Users enter their desired filter criteria into one or multiple of the input boxes. The filtered table is then displayed after the user hits `enter`. 
+The webpage is user-friendly and intuitive to use. Users enter their desired filter criteria into one or multiple of the input boxes. The filtered table is then displayed after the user hits enter. 
 
 The user is presented with a webpage displaying the entire table and input boxes with placeholders showing examples of how to enter the filter criteria. 
 <img src="images/filter_empty.png">
